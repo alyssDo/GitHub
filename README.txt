@@ -1,6 +1,6 @@
 Alyssa Do - Final Project 
 
-Hello! I hope you enjoyed my project! :) The project code is in the finalfinal.ino file.
+Hello! I hope you enjoyed my project! :) The project code is in the finalfinalproject.ino file.
 
 Extra tidbits about the project down below.
 
